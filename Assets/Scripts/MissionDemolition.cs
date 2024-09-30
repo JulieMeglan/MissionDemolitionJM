@@ -2,11 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
+
 
 
 public enum GameMode
@@ -79,10 +77,10 @@ public class MissionDemolition : MonoBehaviour
     void Update()
     {
         UpdateGUI();
-        if ((mode == GameMode.levelEnd) && Goal.goalMet)
+        if ((mode == GameMode.playing) && Goal.goalMet)
             {
                 mode = GameMode.levelEnd;
-            FollowCam.SWITCH_VIEW(FollowCam.eView.both);
+            // FollowCam.SWITCH_VIEW(FollowCam.eView.both);
                 Invoke("NextLevel", 2f); // 2 seconds
             }
     }
@@ -92,6 +90,7 @@ public class MissionDemolition : MonoBehaviour
             level++;
             if (level == levelMax)
             {
+                // SceneManager.LoadScene(2);
                 level = 0;
                 shotsTaken = 0;
             }

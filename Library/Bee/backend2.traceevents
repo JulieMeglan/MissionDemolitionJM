@@ -1,313 +1,311 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1727712239276169, "dur":33947, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239310132, "dur":160, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239310339, "dur":393, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239310835, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":0, "ts":1727712239310935, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311055, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/level0" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311122, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/level0.resS" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311179, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/level1" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311248, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/level1.resS" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311406, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311483, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311537, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311651, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311715, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311817, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/sharedassets1.resource" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311901, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/boot.config" }}
-,{ "pid":12345, "tid":0, "ts":1727712239311988, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":0, "ts":1727712239312250, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":0, "ts":1727712239312591, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239312674, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239312732, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239313017, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239313071, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239313297, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239313920, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239314221, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239314617, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315023, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315190, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315455, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315804, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315889, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239315951, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316012, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316104, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316168, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316261, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316320, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316552, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316611, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316861, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239316991, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317267, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317396, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317543, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317616, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317765, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":0, "ts":1727712239317978, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":0, "ts":1727712239318168, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":0, "ts":1727712239318264, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":0, "ts":1727712239318344, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":0, "ts":1727712239310764, "dur":8061, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239318828, "dur":224931, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239543760, "dur":68, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239544073, "dur":2048, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1727712239311036, "dur":7809, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1727712239318850, "dur":6661, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1727712239326470, "dur":1302, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":1, "ts":1727712239327778, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1727712239327901, "dur":19241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":1, "ts":1727712239327775, "dur":19860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1727712239348088, "dur":74, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1727712239537612, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1727712239348614, "dur":189092, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1727712239542317, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1727712239542316, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1727712239542447, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/boot.config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239311112, "dur":7755, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239318870, "dur":1034, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239319904, "dur":5619, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239325533, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239325693, "dur":1271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239326994, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239326977, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327132, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327335, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327329, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327469, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327546, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327545, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition.exe" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327842, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239327914, "dur":93, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328016, "dur":201, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328267, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328349, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328435, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328596, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328594, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239328867, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239329075, "dur":551, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239329659, "dur":308, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239329987, "dur":384, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239330389, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239330585, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239330670, "dur":747, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239331429, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239331482, "dur":1009, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239332510, "dur":384, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239332899, "dur":982, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1727712239333887, "dur":810, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1727712239334725, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":2, "ts":1727712239337976, "dur":3173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/level1.resS" }}
-,{ "pid":12345, "tid":2, "ts":1727712239341202, "dur":202590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239311094, "dur":7761, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239318859, "dur":1034, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239319894, "dur":416, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239320310, "dur":5215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239325533, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":3, "ts":1727712239325695, "dur":1271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239326983, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327101, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327179, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327291, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327359, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327475, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327549, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327800, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239327918, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239328006, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239328090, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239328239, "dur":273, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239328516, "dur":734, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239328514, "dur":737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239329251, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239329363, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239329461, "dur":393, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239329855, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239329970, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239330137, "dur":400, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239330552, "dur":405, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239330972, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239331131, "dur":585, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239331729, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239331910, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239332063, "dur":628, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239332694, "dur":320, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333068, "dur":268, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333361, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333469, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333609, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333712, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333709, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1727712239333793, "dur":617, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1727712239334442, "dur":2797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":3, "ts":1727712239337366, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":3, "ts":1727712239339978, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/level0" }}
-,{ "pid":12345, "tid":3, "ts":1727712239341507, "dur":202279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239311164, "dur":7718, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239318887, "dur":1009, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239319897, "dur":5622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239325541, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239325658, "dur":1186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239326856, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327118, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327243, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327348, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327434, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327419, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327545, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327779, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239327966, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239328105, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239328319, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239328399, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239328589, "dur":470, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239328588, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239329062, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239329274, "dur":342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239329646, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239329878, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239330148, "dur":436, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239330626, "dur":543, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239331187, "dur":697, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239331907, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239332106, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239332334, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239332424, "dur":379, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239332806, "dur":375, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1727712239333219, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239333476, "dur":490, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239333983, "dur":1170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239335182, "dur":204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":4, "ts":1727712239335180, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":4, "ts":1727712239335388, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1727712239335740, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":4, "ts":1727712239338103, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/level1" }}
-,{ "pid":12345, "tid":4, "ts":1727712239341198, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1727712239343603, "dur":200049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239311216, "dur":7679, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239318899, "dur":1247, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239320147, "dur":5388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239325536, "dur":1679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327215, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327345, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327548, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327704, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327897, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239327984, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":5, "ts":1727712239328117, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239328421, "dur":638, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239329079, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239329224, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239329453, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239329549, "dur":268, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239329875, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239330126, "dur":369, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239330518, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239330835, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331023, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331224, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331428, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331543, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331814, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239331986, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239332084, "dur":247, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239332346, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
-,{ "pid":12345, "tid":5, "ts":1727712239332341, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":5, "ts":1727712239332483, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239332739, "dur":309, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":5, "ts":1727712239333080, "dur":448, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239333541, "dur":177, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239333732, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239333835, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239334044, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/sharedassets1.resource" }}
-,{ "pid":12345, "tid":5, "ts":1727712239335433, "dur":11682, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":5, "ts":1727712239335432, "dur":11686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":5, "ts":1727712239347119, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1727712239347242, "dur":196397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239311270, "dur":7639, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239318916, "dur":1244, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239320160, "dur":5371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239325556, "dur":1412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
-,{ "pid":12345, "tid":6, "ts":1727712239325532, "dur":1438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":6, "ts":1727712239326971, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239327065, "dur":809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1727712239327059, "dur":817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1727712239327877, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239327959, "dur":121, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328090, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328299, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328389, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328466, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328463, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328642, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328724, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1727712239328723, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1727712239329175, "dur":5298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1727712239334557, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":6, "ts":1727712239337786, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/resources.assets" }}
-,{ "pid":12345, "tid":6, "ts":1727712239337940, "dur":2216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/resources.assets" }}
-,{ "pid":12345, "tid":6, "ts":1727712239340226, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":6, "ts":1727712239343596, "dur":200087, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239311317, "dur":7628, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239318949, "dur":1360, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239320310, "dur":5211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239325559, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":7, "ts":1727712239325534, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":7, "ts":1727712239325688, "dur":1271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239326970, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327106, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327201, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327199, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327319, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327399, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327397, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327509, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239327718, "dur":732, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239328459, "dur":10585, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":7, "ts":1727712239328457, "dur":10590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":7, "ts":1727712239339048, "dur":492, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1727712239339621, "dur":3442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/level0.resS" }}
-,{ "pid":12345, "tid":7, "ts":1727712239343114, "dur":200625, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239311382, "dur":7601, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239318986, "dur":978, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239319964, "dur":5558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239325556, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1727712239325534, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1727712239325692, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239325770, "dur":1207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1727712239325769, "dur":1210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1727712239326980, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239327065, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":8, "ts":1727712239327173, "dur":593, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239327797, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239327907, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239328006, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239328236, "dur":260, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239328499, "dur":1115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\Unity\\MissionDemolition\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239328498, "dur":1118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239329617, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239329839, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239330193, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239330260, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239330540, "dur":462, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331018, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331162, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331311, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331442, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331615, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331702, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331815, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239331921, "dur":281, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239332220, "dur":329, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239332550, "dur":402, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles output/MissionDemolition_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1727712239332987, "dur":869, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239333871, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239340689, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1727712239334095, "dur":6692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":8, "ts":1727712239340869, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"output/MissionDemolition_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":8, "ts":1727712239343024, "dur":200741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1727712239550242, "dur":1808, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1727717032610631, "dur":26349, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032636988, "dur":95, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032637117, "dur":437, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032637703, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727717032637872, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1727717032637990, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638112, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638205, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638316, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638369, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638448, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638505, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638573, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638711, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727717032638963, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639043, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639102, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639356, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639481, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639632, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639762, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032639890, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640017, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640143, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640231, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640327, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640441, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640702, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032640973, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032641911, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032642294, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032642667, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032643045, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032643273, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032643329, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032643475, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032643843, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032644236, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1727717032637598, "dur":7494, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032645093, "dur":330763, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032975857, "dur":187, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032976204, "dur":2586, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1727717032637855, "dur":7251, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727717032645109, "dur":6252, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727717032664976, "dur":4015, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727717032669374, "dur":2539, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1727717032671923, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727717032672150, "dur":14369, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1727717032686522, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1727717032686822, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1727717032687232, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player8cdf171a-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1727717032671920, "dur":15735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727717032688103, "dur":82, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1727717032688753, "dur":280282, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727717032974623, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727717032974622, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1727717032974779, "dur":1000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1727717032637928, "dur":7187, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032645118, "dur":945, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032646064, "dur":375, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032646440, "dur":4976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032651439, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727717032651417, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727717032661783, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1727717032663415, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032663409, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032663681, "dur":15163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032678927, "dur":2518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032681519, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032681603, "dur":3049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032684701, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032684700, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032684864, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032686893, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032686890, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032687021, "dur":2608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032689780, "dur":2459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032692344, "dur":3906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032696370, "dur":9243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032705714, "dur":7011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032712853, "dur":3230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032716215, "dur":5155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032721507, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032723359, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1727717032725105, "dur":3873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727717032729045, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1727717032730366, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1727717032732841, "dur":1009, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1727717032733854, "dur":3180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1727717032737080, "dur":238747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032638100, "dur":7077, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032645181, "dur":921, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032646102, "dur":5322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032651435, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1727717032651425, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1727717032664605, "dur":129, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032662922, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1727717032668562, "dur":725, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032664938, "dur":4361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032675170, "dur":416, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1727717032669411, "dur":6201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032675718, "dur":6751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032682574, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032685501, "dur":541, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032685498, "dur":546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032686070, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032687598, "dur":3833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032691500, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032693535, "dur":3998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032697673, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032699228, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032701713, "dur":2960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032704763, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032706588, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032708568, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032710670, "dur":3320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032714095, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032716684, "dur":5092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032721882, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1727717032723901, "dur":1606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1727717032725585, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1727717032728097, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1727717032729373, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1727717032730946, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1727717032732972, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1727717032734701, "dur":241162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032638086, "dur":7042, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032645131, "dur":979, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032646111, "dur":5312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032651423, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1727717032652795, "dur":3769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1727717032656617, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1727717032656915, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1727717032658707, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727717032658873, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1727717032660983, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1727717032660980, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1727717032661131, "dur":9446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1727717032670671, "dur":6809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032677590, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032681625, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032684608, "dur":716, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032684607, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032685348, "dur":1884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032687319, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032687412, "dur":4268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032691763, "dur":1979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032693827, "dur":2999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032696937, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032698504, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032700784, "dur":2795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032706067, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032703701, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032706450, "dur":3657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032710171, "dur":2275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032712538, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032714922, "dur":6925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032722778, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1727717032722955, "dur":11386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1727717032734475, "dur":241372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032638208, "dur":7007, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032645220, "dur":979, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032646199, "dur":5222, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032651422, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032653318, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032656303, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1727717032656455, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1727717032658464, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032658462, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032658656, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032660349, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032660347, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032660604, "dur":2176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1727717032662840, "dur":2136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1727717032664990, "dur":4202, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032669347, "dur":6063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1727717032675490, "dur":3949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032679516, "dur":12738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032695388, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032692352, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032695620, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032699157, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032697927, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032699373, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032701273, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032703509, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032705646, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032709267, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032711685, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032714703, "dur":5098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032720006, "dur":490, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032720505, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032723260, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1727717032723354, "dur":11022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1727717032734448, "dur":241402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032638248, "dur":6979, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032645230, "dur":932, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032646163, "dur":5252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032651430, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1727717032651416, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1727717032652809, "dur":4674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1727717032657615, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727717032657590, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727717032657754, "dur":101, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032657925, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1727717032660073, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1727717032660367, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1727717032662228, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1727717032664528, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032662401, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1727717032664692, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1727717032664945, "dur":6950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1727717032672122, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032675962, "dur":7599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032683668, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032685553, "dur":377, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032685552, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032685954, "dur":2997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032689013, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032692403, "dur":10122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032702614, "dur":5544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032708266, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032709875, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032714652, "dur":162, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1727717032711749, "dur":3079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032715004, "dur":5850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032721021, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032721116, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032723285, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1727717032725069, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1727717032726928, "dur":2486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1727717032729487, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1727717032730945, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1727717032732579, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1727717032737482, "dur":238344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032638290, "dur":6953, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032645248, "dur":986, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032646234, "dur":5191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032651425, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1727717032662128, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1727717032664124, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition.exe" }}
+,{ "pid":12345, "tid":7, "ts":1727717032666215, "dur":3058, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032664195, "dur":5101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition.exe" }}
+,{ "pid":12345, "tid":7, "ts":1727717032669397, "dur":5486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032674958, "dur":247, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032675211, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032678993, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032681564, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032681643, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032684246, "dur":209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032684243, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032684481, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032686071, "dur":290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032686069, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032686398, "dur":3874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032690477, "dur":11437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032702025, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032705063, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032706690, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032708884, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032710448, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032715197, "dur":127, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1727717032713689, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032715484, "dur":6650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032722246, "dur":1865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1727717032724211, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1727717032726209, "dur":2375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727717032728659, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1727717032729790, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727717032731440, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1727717032733576, "dur":1957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1727717032735577, "dur":240271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032638421, "dur":6834, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032645256, "dur":906, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032646162, "dur":5207, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032651412, "dur":1253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032652829, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1727717032655871, "dur":228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727717032655868, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727717032658098, "dur":251, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032656204, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1727717032658461, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1727717032658784, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032658871, "dur":1500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1727717032660412, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1727717032660779, "dur":2392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1727717032663247, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032663244, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032670922, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032663569, "dur":7552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032671288, "dur":4012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032675427, "dur":5978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032681558, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032681613, "dur":3150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032684818, "dur":1119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\git\\MissionDemolitionJM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032684814, "dur":1125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032685961, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032688524, "dur":5863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032694509, "dur":2743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032698782, "dur":129, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032697344, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032699300, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032721706, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1727717032702062, "dur":20675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/MissionDemolition_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032723656, "dur":910, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1-x86_64\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032723651, "dur":916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/git/Unity/MissionDemolition/output/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032724592, "dur":54582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/git/Unity/MissionDemolition/output/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1727717032779226, "dur":196612, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1727717032983400, "dur":2194, "ph":"X", "name": "ProfilerWriteOutput" }
 ,

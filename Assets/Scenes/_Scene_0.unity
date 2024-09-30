@@ -884,7 +884,9 @@ MonoBehaviour:
   castlePos: {x: 50, y: -9.5, z: 0}
   castles:
   - {fileID: 8765773406687850681, guid: 387be48fef48ba2489e76208f93d20ae, type: 3}
-  - {fileID: 8765773406687850681, guid: b96739aa317460f4d9296d3d344e1ae5, type: 3}
+  - {fileID: 8765773406687850681, guid: 3751ae213d972b5448eb5a3dd781c621, type: 3}
+  - {fileID: 8765773406687850681, guid: d89d1e8d6fca8a44dbb93886e0081946, type: 3}
+  - {fileID: 8765773406687850681, guid: ea182d22c80e17a4c908cc95c0dfe3a9, type: 3}
   level: 0
   levelMax: 0
   shotsTaken: 0
