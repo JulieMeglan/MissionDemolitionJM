@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CloudCover
     - FollowCam
+    - GameStateManager
     - Goal
     - MainMenuManager
     - MissionDemolition
@@ -73,6 +74,9 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: FollowCam
     methodName: SwitchView
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenuManager
+    methodName: StartGame
   sceneClasses:
     Assets/Scenes/_Scene_0.unity:
     - Class: 1
@@ -195,6 +199,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5008}
     - Class: 114
+      Script: {instanceID: 5120}
+    - Class: 114
       Script: {instanceID: 5556}
     - Class: 114
       Script: {instanceID: 5706}
@@ -263,6 +269,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5706}
     - Class: 114
       Script: {instanceID: 6022}
+    - Class: 114
+      Script: {instanceID: 26248}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -828,7 +836,7 @@ ScriptsOnlyBuild:
     className: TMP_FontAsset
   - hash:
       serializedVersion: 2
-      Hash: be72e4cd87587b2dc65840410f92f108
+      Hash: 152b98ed659dc44519db5bd8bb9490d9
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: MainMenuManager
@@ -1156,6 +1164,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0a6f263474a60a1c785680e0e4035f3d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GameStateManager
   platform: 19
   scenePathNames:
   - Assets/Scenes/_Scene_Start.unity

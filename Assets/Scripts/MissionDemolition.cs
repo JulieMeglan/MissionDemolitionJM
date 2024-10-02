@@ -90,11 +90,14 @@ public class MissionDemolition : MonoBehaviour
             level++;
             if (level == levelMax)
             {
-                // SceneManager.LoadScene(2);
+                SceneManager.LoadScene(2);
                 level = 0;
                 shotsTaken = 0;
             }
+            
+            shotsTaken = 0;
             StartLevel();
+
         }
 
 

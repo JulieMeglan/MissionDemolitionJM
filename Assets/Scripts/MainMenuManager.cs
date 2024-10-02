@@ -6,9 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuManager : MonoBehaviour
 {
+    [SerializeField] private int sceneIndex = 1;
     // public startButton;
     public void StartGame() {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(sceneIndex);
     }
     // Start is called before the first frame update
     void Start()

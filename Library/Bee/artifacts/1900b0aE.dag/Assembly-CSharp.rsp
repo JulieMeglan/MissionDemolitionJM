@@ -355,6 +355,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.46f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CloudCover.cs"
 "Assets/Scripts/FollowCam.cs"
+"Assets/Scripts/GameStateManager.cs"
 "Assets/Scripts/Goal.cs"
 "Assets/Scripts/MainMenuManager.cs"
 "Assets/Scripts/MissionDemolition.cs"

@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\RigidbodySleep.cs" />
     <Compile Include="Assets\Scripts\MissionDemolition.cs" />
     <Compile Include="Assets\Scripts\Goal.cs" />
+    <Compile Include="Assets\Scripts\GameStateManager.cs" />
     <Compile Include="Assets\Scripts\Slingshot.cs" />
     <Compile Include="Assets\Scripts\MainMenuManager.cs" />
     <Compile Include="Assets\Scripts\FollowCam.cs" />
